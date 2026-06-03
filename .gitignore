@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ML models y datos
+*.pkl
+*.h5
+*.pt
+*.pth
+data/
+models/
